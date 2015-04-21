@@ -7,7 +7,12 @@ description: >
     other fitness and leisure services including swimming lessons.
 baseurl: ""
 url: "http://gentlefitness.co.uk"
-twitter_username: jekyllrb
+
+twitter_username: >
+    @fitnesssammie
+twitter_url: https://twitter.com/fitnesssammie
+facebook_username: bristolgentlefitness
+facebook_url: https://www.facebook.com/bristolgentlefitness
 github_username:  jekyll
 
 # Build settings
