@@ -1,0 +1,14 @@
+# Site settings
+title: Gentle Fitness
+email: samantha@gentlefitness.co.uk
+description: >
+    Gentle Fitness is the home of fitness expert Samantha Crease from Bristol, UK.
+    Gentle Fitness offers a range of exercise classes, massage treatments and
+    other fitness and leisure services including swimming lessons.
+baseurl: ""
+url: "http://gentlefitness.co.uk"
+twitter_username: jekyllrb
+github_username:  jekyll
+
+# Build settings
+markdown: kramdown
