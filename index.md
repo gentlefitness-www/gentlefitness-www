@@ -19,4 +19,3 @@ To contact Samantha you can email her on
 
 Or find her on Facebook - [{{ site.facebook_username }}]({{ site.facebook_url }})
 or twitter - [{{ site.twitter_username }}]({{ site.twitter_url }})
-
