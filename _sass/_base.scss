@@ -70,6 +70,7 @@ blockquote {
     font-size: 18px;
     letter-spacing: -1px;
     font-style: italic;
+    margin-top: $spacing-unit;
 
     > :last-child {
         margin-bottom: 0;
