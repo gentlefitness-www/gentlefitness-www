@@ -4,7 +4,7 @@ title: Classes
 permalink: /classes.html
 ---
 
-## Community classes
+# Community classes
 
 For the most up to date classes please check out my
 [facebook page]({{ site.facebook_url }})
