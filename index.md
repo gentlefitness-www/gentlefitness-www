@@ -21,7 +21,7 @@ To contact Samantha, you can email her on
 Or find her on Facebook - [{{ site.facebook_username }}]({{ site.facebook_url }})
 or twitter - [{{ site.twitter_username }}]({{ site.twitter_url }})
 
-*![REPs logo]({{ site.images_uri }}/reps.png)
-![Train the nation logo]({{ site.images_uri }}/train-the-nation.png)
-![GX community logo]({{ site.images_uri }}/gx-community.png)
-![Pink ribbon program logo]({{ site.images_uri }}/pink-ribbon-program.png)*
+*[![Register of Excercise Professionals logo]({{ site.images_uri }}/reps.png)](http://www.exerciseregister.org) "Go to the Register of Excercise Professionals site"
+[![Train the nation logo]({{ site.images_uri }}/train-the-nation.png)](http://scotthodson.co.uk) "Go to the Train the Nation site"
+[![GX community logo]({{ site.images_uri }}/gx-community.png)](http://www.groupxtraining.com) "Go to the Group X Training site"
+[![Pink ribbon program logo]({{ site.images_uri }}/pink-ribbon-program.png)](http://www.pinkribbonprogram.com) "Go to the Pink Ribbon Program site"*
