@@ -1,5 +1,6 @@
 ---
 layout: default
+id: home
 ---
 This site is the home of Samantha Crease, a fitness expert specialising in
 helping you find your healthiest, happiest, most vital self. 
@@ -19,3 +20,8 @@ To contact Samantha, you can email her on
 
 Or find her on Facebook - [{{ site.facebook_username }}]({{ site.facebook_url }})
 or twitter - [{{ site.twitter_username }}]({{ site.twitter_url }})
+
+*![REPs logo]({{ site.images_uri }}/reps.png)
+![Train the nation logo]({{ site.images_uri }}/train-the-nation.png)
+![GX community logo]({{ site.images_uri }}/gx-community.png)
+![Pink ribbon program logo]({{ site.images_uri }}/pink-ribbon-program.png)*
