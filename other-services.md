@@ -48,6 +48,8 @@ be needed or you will still be charged for your massage
 - **£35** Full Body Massage       
 - **£20** Leg Massage             
 
+-------------------------------------------------------------------------------
+
 ## Swimming lessons
 *Confidence in the water at any age!*
 
@@ -64,6 +66,8 @@ Samantha predominantly gives lessons within the South Gloucestershire Leisure
 Centres. If you’re unsure of the best location for you, get in touch.
 
 **£20** per session (this does not include you own pool entry)
+
+-------------------------------------------------------------------------------
 
 ## Hydro therapy
 Hydro therapy consists of exercises taught in shallow water so is suitable for
