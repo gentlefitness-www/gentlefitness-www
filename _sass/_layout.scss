@@ -46,8 +46,9 @@
         position: absolute;
         top: 9px;
         right: 30px;
-        background-color: $background-color;
+        background-color: $grey-color-dark;
         border: 1px solid $grey-color-light;
+        color: $grey-color-light;
         border-radius: 5px;
         text-align: right;
 
@@ -65,7 +66,7 @@
                 height: 15px;
 
                 path {
-                    fill: $grey-color-dark;
+                    fill: $grey-color-light;
                 }
             }
         }
