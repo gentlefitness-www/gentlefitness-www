@@ -17,3 +17,5 @@ facebook_url: https://www.facebook.com/bristolgentlefitness
 
 # Build settings
 markdown: kramdown
+sass:
+    style: compressed
