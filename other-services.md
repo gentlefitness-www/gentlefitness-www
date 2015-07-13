@@ -6,11 +6,12 @@ permalink: /other-services.html
 
 # Other services
 
-Gentle Fitness also offers:
+Gentle Fitness ltd also offers:
 
 - [Massage](#massage)
 - [Swimming lessons for children and adults](#swimming-lessons)
 - [Hydro therapy](#hydro-therapy)
+- [Personal training](#personal-training)
 
 ## Massage
 **Massage with Gentle Fitness** aims to promote a feeling of good health and
@@ -31,8 +32,8 @@ nerves will need to check with a doctor before receiving a massage.
 - Back, neck and shoulder massage
 - Specific area massage (i.e. legs)
 
-Gentle Fitness offers a mobile massage service which means we can meet you at
-your place of work or in the comfort of your own home, equipped with a
+Gentle Fitness ltd offers a mobile massage service which means we can meet you
+at your place of work or in the comfort of your own home, equipped with a
 professional massage table and everything that is required to provide your
 treatment of choice. All that you need provide is the floor space of an average
 wallpapering table.
@@ -80,3 +81,21 @@ Floatation devices and other water equipment used such as webbed gloves, floats,
 noodles and resistance bands can also be used.
 
 **£20** per session (this does not include you own pool entry)
+
+-------------------------------------------------------------------------------
+
+## Personal Training
+Personal training is offered at SBL Sports Centre. Samantha specialises in special
+populations. This means things that need special attention such as ante-natal,
+post-natal, mental health, high blood pressure, injuries, aliments, cancer
+rehabilitation etc.
+
+You may only want one session with a programme written up for you to follow
+within your own time or you may want a regular session.
+
+> If you are looking for a trainer who will bully you to reach your goals, I am
+> not the instructor for you. I will support you, checking your technique whilst
+> making your training worthwhile and enjoyable. I adopt a less formal, friendly
+> relaxed approach
+
+**£25** per session (this does include you entry to SBL sports Centre)
