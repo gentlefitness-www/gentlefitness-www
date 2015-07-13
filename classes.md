@@ -6,7 +6,7 @@ permalink: /classes.html
 
 # Classes
 
-Gentle Fitness offers:
+Gentle Fitness ltd offers:
 
 - [Community classes](#community-classes)
 - [Freelance classes](#freelance-classes-term-time-only)

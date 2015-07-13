@@ -7,8 +7,7 @@ helping you find your healthiest, happiest, most vital self.
 
 She has developed a range of services to help you feel the best you can by
 gently welcoming you back into the fun world of fitness with the help of some
-other level 4 REPs accredited instructors and Phillippa Parish our qualified
-nutritionist.
+other level 4 REPs accredited instructors.
 
 Samantha's wealth of experience in teaching classes, holding workshops within
 Bristol and Bath, providing online resources, offering massage, swimming

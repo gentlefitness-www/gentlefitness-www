@@ -6,7 +6,7 @@ permalink: /other-services.html
 
 # Other services
 
-Gentle Fitness also offers:
+Gentle Fitness ltd also offers:
 
 - [Massage](#massage)
 - [Swimming lessons for children and adults](#swimming-lessons)
@@ -31,8 +31,8 @@ nerves will need to check with a doctor before receiving a massage.
 - Back, neck and shoulder massage
 - Specific area massage (i.e. legs)
 
-Gentle Fitness offers a mobile massage service which means we can meet you at
-your place of work or in the comfort of your own home, equipped with a
+Gentle Fitness ltd offers a mobile massage service which means we can meet you
+at your place of work or in the comfort of your own home, equipped with a
 professional massage table and everything that is required to provide your
 treatment of choice. All that you need provide is the floor space of an average
 wallpapering table.
