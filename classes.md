@@ -11,7 +11,6 @@ Gentle Fitness ltd offers:
 - [Community classes](#community-classes)
 - [Classes hosted at Keynsham Leisure Centre](#classes-hosted-at-keynsham-leisure-centre)
 - [Exercise courses for Keynsham Leisure Centre](#exercise-courses-for-keynsham-leisure-centre)
-- [Classes hosted at Sir Bernard Lovell Sports Centre](#classes-hosted-at-sir-bernard-lovell-sports-centre)
 - [Classes hosted at Brunel Fitness Centre](#classes-hosted-at-brunel-fitness-centre-speedwell-school)
 - [Classes hosted at Easton Leisure Centre](#classes-hosted-at-easton-leisure-centre)
 - [Classes hosted at Phnx Fitness Studio](#classes-hosted-at-phnx-fitness-studio)
@@ -28,22 +27,21 @@ For the most up to date classes please check out my
 |19:00|Ante Natal course   |Keynsham Leisure Centre|
 ||**Tuesday**                                      |
 |11:30|Super Seniors       |Phnx Fitness Studio    |
-|17:15|1:1 Exercise Slot   |THE Medical, Downend   |
-|18:00|Small Group Pilates |THE Medical, Downend   |
-|19:00|1:1 Exercise Slot   |THE Medical, Downend   |
+|||
+|19:00|* Rehabilitation (beginners) Pilates £7|Lincombe Barn, Downend|
+||* *Limited mats so if you have one please bring it*|
+||*Please contact me for more information.*|
+|||
 |20:15|Pilates             |Phnx Fitness Studio    |
 ||**Wednesday**                                    |
 |09:35|Yoga class          |Keynsham Leisure Centre|
 |10:45|Post Natal course   |Keynsham Leisure Centre|
-|19:00|Pilates             |Brunel Fitness Centre  |
-||**Thursday**                                     |
-|18:00|Beginners Body Con  |Keynsham Leisure Centre|
-|20:00|Pilates             |SBL                    |
+|19:00|Yoga                |Brunel Fitness Centre  |
 ||**Friday**                                       |
 |09:55|Beginners Pilates   |Keynsham Leisure Centre|
 |11:00|Super Seniors       |Keynsham Leisure Centre|
 ||**Saturday**                                     |
-|08:15|1:1 Exercise Slot   |THE Medical, Downend   |
+|08:15|Small Group Pilates |THE Medical, Downend   |
 |09:00|Small Group Pilates |THE Medical, Downend   |
 |10:00|1:1 Exercise Slot   |THE Medical, Downend   |
 ||**Sunday**                                       |
@@ -55,7 +53,6 @@ For the most up to date classes please check out my
 
 |Monday   |17:45|Yoga                       |Keynsham Leisure Centre|
 |Wednesday|09:35|Yoga                       |Keynsham Leisure Centre|
-|Thursday |18:00|Beginners body conditioning|Keynsham Leisure Centre|
 |Friday   |09:55|Beginners Pilates          |Keynsham Leisure Centre|
 |Friday   |11:00|Super Seniors              |Keynsham Leisure Centre|
 
@@ -75,18 +72,9 @@ Call the Centre directly on 01225 439680 to enquire about the next batch of cour
 
 -------------------------------------------------------------------------------
 
-## Classes hosted at Sir Bernard Lovell Sports Centre
-
-|Thursday|20:00|Pilates|SBL Sports Centre|
-
-For the cost of SBL Sports Centre classes please contact them directly on 01454 868158.
-All classes taught at the Leisure Centre need to paid for at the Reception desk.
-
--------------------------------------------------------------------------------
-
 ## Classes hosted at Brunel Fitness Centre (Speedwell School)
 
-|Wednesday|19:00|Pilates|Brunel Fitness Centre|
+|Wednesday|19:00|Yoga|Brunel Fitness Centre|
 
 For the cost of Brunel Fitness Centre classes please contact them directly on 0117 377 0098.
 All classes taught at the Fitness Centre need to paid for at the Reception desk.
@@ -114,11 +102,7 @@ All classes taught at the fitness studio need to paid for at the desk upon entry
 
 ## Classes hosted at THE Medical, Downend
 
-|Tuesday|17:15|1:1 Exercise Slot  |THE Medical, Downend|
-|Tuesday|18:00|Small Group Pilates|THE Medical, Downend|
-|Tuesday|19:00|1:1 Exercise Slot  |THE Medical, Downend|
-||
-|Saturday|08:15|1:1 Exercise Slot  |THE Medical, Downend|
+|Saturday|08:15|Small Group Pilates|THE Medical, Downend|
 |Saturday|09:00|Small Group Pilates|THE Medical, Downend|
 |Saturday|10:00|1:1 Exercise Slot  |THE Medical, Downend|
 
