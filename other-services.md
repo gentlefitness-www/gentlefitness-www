@@ -8,10 +8,24 @@ permalink: /other-services.html
 
 Gentle Fitness ltd also offers:
 
+- [Programme writing](#programme-writing)
 - [Massage](#massage)
 - [Swimming lessons for children and adults](#swimming-lessons)
 - [Hydro therapy](#hydro-therapy)
 - [Personal training](#personal-training)
+
+## Programme writing
+My programme writing service consists of exercises written for you to complete
+in your own time, whether this be to use in the gym, home or away with work.
+The programme can be using any equipment you have or can be yoga, pilates, body
+weight or water based exercises. Some people have also asked for their
+programme to be for running to complete a 5K, 10K, half marathon or marathon.
+
+Ideally your exercise programmes should be updated regularly (between 1-3
+months) to ensure you are progressing towards your goals.
+
+**£7** per programme (this does not include being shown the exercises, some
+decide to pair this with a one off PT session where the programme is taught)
 
 ## Massage
 **Massage with Gentle Fitness** aims to promote a feeling of good health and
