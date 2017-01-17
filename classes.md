@@ -46,8 +46,8 @@ For the most up to date classes please check out my
 |09:55|Beginners Pilates   |Keynsham Leisure Centre|
 |11:00|Super Seniors       |Keynsham Leisure Centre|
 ||**Saturday**                                     |
-|11:00|Yoga                |Powa Fitness, Hanham Hall|
 |09:00|Small Group Pilates £7|Lincombe Barn, Downend |
+|11:00|Yoga                |Powa Fitness, Hanham Hall|
 ||**Sunday**                                       |
 |09:30|Pilates             |Easton Leisure Centre  |
 
