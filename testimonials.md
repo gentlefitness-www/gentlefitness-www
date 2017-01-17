@@ -49,7 +49,7 @@ permalink: /testimonials.html
 *- Liz Pasca*
 
 > I love Sam's yoga class – she is always positive, never critical, and takes the time to
-> actually go around the class to adjust our positions and mike sure wee are doing it
+> actually go around the class to adjust our positions and make sure we are doing it
 > right! Sam also is good at giving different options depending on ability/injuries so in a
 > mixed ability class everyone can push themselves as far (or not!) as they want to.
 
