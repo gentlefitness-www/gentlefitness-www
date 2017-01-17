@@ -8,6 +8,16 @@ permalink: /testimonials.html
 
 *Learn what Samantha's clients think...*
 
+> Sam was recommended to me because I do a lot of cycling and have a desk job so
+> I constantly had tight hamstrings, hips and lower back. Without meaning to be
+> stereotypical, blokes often do lots of weight training and aerobic exercise but
+> don't do focus on core stretch and flexibility. Pilates has helped alleviate
+> the problems I was experiencing and comfort on longer rides is now much better.
+> Sam is always very helpful and willing to answer any questions people have,
+> showing a good understanding in the process.
+
+*- Tom Jackson*
+
 > Sam plans her Pilates classes to ensure good health and mobility both are achieved
 > through a variety of exercises with a choice of different levels offered to suit all abilities.
 > Sam’s friendly encouragement and sense of humour gives a social aspect to her
