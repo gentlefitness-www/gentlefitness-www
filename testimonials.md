@@ -8,6 +8,66 @@ permalink: /testimonials.html
 
 *Learn what Samantha's clients think...*
 
+> Sam plans her Pilates classes to ensure good health and mobility both are achieved
+> through a variety of exercises with a choice of different levels offered to suit all abilities.
+> Sam’s friendly encouragement and sense of humour gives a social aspect to her
+> classes that I believe is just as important for wellbeing as exercise and movement.
+
+*- Gill Pirie*
+
+> I attend Sam's Pilates class and absolutely love it. I have seen great benefits and
+> thoroughly enjoy going. She provides lots of different levels for each exercise as is
+> able to work on any areas of weakness you have. After a severe injury, I saw a
+> chiropractor for months but it was only when I had a spots massage from Sam that i
+> saw any improvement. She comes very highly recommended
+
+*- Steph Way on Sam's Pilates class and sports massage*
+
+> Sam is an inspirational teacher. I have attended both her yoga and Pilates classes.
+> Sam makes her class fun and inclusive of all abilities. Giving demonstrations of all
+> levels of postures. Checking each individual and assisting them to achieve the correct
+> posture. If necessary finding an alternative exercise. I have a knee joint problem, Sam
+> is very knowledgeable about what postures are good for my knee and one to avoid.
+> Sam makes her classes a joy to be in. My stamina and flexibility has improved and i
+> always feel uplifted after one of Sam's classes
+
+*- Julie Bebbington*
+
+> Sam is the best! Her classes are so relaxed she makes everyone welcome. I just love
+> her yoga and Pilates classes.
+
+*- Liz Pasca*
+
+> I love Sam's yoga class – she is always positive, never critical, and takes the time to
+> actually go around the class to adjust our positions and mike sure wee are doing it
+> right! Sam also is good at giving different options depending on ability/injuries so in a
+> mixed ability class everyone can push themselves as far (or not!) as they want to.
+
+*- Catherine McCulloch-Down*
+
+> Sam is a truly wonderful and inspirational teacher. Her classes are fun, Varied and
+> friendly. Sam's knowledge of exercise routines and what would suit individual
+> participants in her class is outstanding. Sam breaks down the exercise into different
+> levels and participants choose the level that is suitable for them, with Sam giving each
+> participant individual attention to get the best out of the class. I have attended Sam's
+> classes with some health issues and have been grateful that she has found me
+> alternative ways to do the exercise, so that I will still benefit from it. Her down-to-earth,
+> say-it-as-it-is delivery is unique. I would highly recommend her classes.
+
+*- Lynne Davies*
+
+> I love attending classes with Sam. Her knowledge and expertise is second to none,
+> but it is her friendly manner that keeps me going back. Her relaxed and friendly
+> approach makes her classes the best I've attended.
+
+*- Stacey Day*
+
+> If you want to do Pilates without being yelled at, to have a bit of a giggle but also know
+> the instructor knows what she is doing and isn't going to let you injure yourself, Sam is
+> the girl!
+
+*- Nic Barnett*
+
 > Sam taught my youngest son to swim on a 1:1 basis. She was great fun and
 > pushed him to his limits which he thoroughly enjoyed! His style and confidence
 > improved quickly and they built a great relationship. Sam was honest with me
@@ -59,7 +119,7 @@ permalink: /testimonials.html
 > my options and she came up with a programme. Once we started I did not feel
 > under any pressure to "perform", and I did not feel that she was judging what I
 > could or couldn't do. She has let me take things at my own pace. I don't regret
-> one moment that I have spent excercising. I feel a lot more toned and am
+> one moment that I have spent exercising. I feel a lot more toned and am
 > definitely feeling the benefit of my sessions with Sam. I have no hesitation in
 > recommending Sam as a guide to getting and keeping fit.
 
