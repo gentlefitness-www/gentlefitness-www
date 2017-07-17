@@ -112,4 +112,4 @@ within your own time or you may want a regular session.
 > making your training worthwhile and enjoyable. I adopt a less formal, friendly
 > relaxed approach
 
-**£25** per session (this does include you entry to SBL sports Centre)
+**£30** per session (this does include your entry to SBL sports Centre)
