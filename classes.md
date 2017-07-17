@@ -24,12 +24,11 @@ For the most up to date classes please check out my
 
 ||**Monday**                                       |
 |09:35|Yoga course         |Keynsham Leisure Centre|
-|17:45|Yoga class          |Keynsham Leisure Centre|
 |19:00|Ante Natal course   |Keynsham Leisure Centre|
 |20:00|Aqua Aerobics       |Easton Leisure Centre  |
 ||**Tuesday**                                      |
 |11:00|Super Seniors £4    |Kes Club, Kingswood    |
-|12:45|Pilates             |UWE - Glennside Campus |
+|12:30|Pilates             |UWE - Glennside Campus |
 |19:00|Rehabilitation (beginners) Pilates £7|Lincombe Barn, Downend|
 |20:00|Rehabilitation (beginners) Pilates £7|Lincombe Barn, Downend|
 ||**Wednesday**                                    |
@@ -37,12 +36,13 @@ For the most up to date classes please check out my
 |10:45|Post Natal course   |Keynsham Leisure Centre|
 |19:00|Yoga                |Brunel Fitness Centre  |
 ||**Thursday**                                     |
+|09:35|Yoga class          |Keynsham Leisure Centre|
 |18:00|Pilates             |UWE - Student Union Building|
 ||**Friday**                                       |
-|09:55|Beginners Pilates   |Keynsham Leisure Centre|
-|11:00|Super Seniors       |Keynsham Leisure Centre|
+|09:30|Beginners Pilates   |Keynsham Leisure Centre|
+|10:15|Super Seniors       |Keynsham Leisure Centre|
 ||**Saturday**                                     |
-|09:00|Small Group Pilates £7|Lincombe Barn, Downend |
+|09:00|Rehabilitation (beginners) Pilates £7|Lincombe Barn, Downend|
 ||**Sunday**                                       |
 |09:30|Pilates             |Easton Leisure Centre  |
 
@@ -50,10 +50,10 @@ For the most up to date classes please check out my
 
 ## Classes hosted at Keynsham Leisure Centre
 
-|Monday   |17:45|Yoga             |
 |Wednesday|09:35|Yoga             |
-|Friday   |09:55|Beginners Pilates|
-|Friday   |11:00|Super Seniors    |
+|Thursday |09:35|Yoga             |
+|Friday   |09:30|Beginners Pilates|
+|Friday   |10:15|Super Seniors    |
 
 For the cost of Keynsham Leisure classes please contact them directly 01225 439680.
 All classes taught at the Leisure Centre need to paid for at the Reception desk.
@@ -94,7 +94,10 @@ All classes taught at the Leisure Centre need to paid for at the Reception desk.
 
 |Tuesday |19:00|Rehabilitation (beginners) Pilates £7|In the Page Room|
 |Tuesday |20:00|Rehabilitation (beginners) Pilates £7|In the Page Room|
-|Saturday|09:00|Small Group Pilates £7|Upstairs within Lincombe Barn|
+|Saturday|09:00|Rehabilitation (beginners) Pilates £7|Upstairs within Lincombe Barn\*|
+
+_\* The location of Saturday's session can change weekly, please check or 
+ensure I have your mobile number so I can text you if the room has changed._
 
 I have limited mats so if you have one please bring it with you.
 Please contact me for more information.
@@ -106,7 +109,7 @@ happening downstairs and it is very easy to find yourself in the wrong class.
 
 ## Classes hosted at UWE, Student Union Building
 
-|Tuesday|12:45|Pilates (Glennside Campus)|
+|Tuesday|12:30|Pilates (Glennside Campus)|
 |Thursday|20:00|Pilates (off the wall) Frenchay Campus|
 
 For the cost of UWE off the wall classes and one to ones please contact them
