@@ -15,7 +15,7 @@ Gentle Fitness ltd offers:
 - [Classes hosted at Easton Leisure Centre](#classes-hosted-at-easton-leisure-centre)
 - [Classes hosted at Lincombe Barn, Downend](#classes-hosted-at-lincombe-barn-downend)
 - [Classes hosted at UWE](#classes-hosted-at-uwe-student-union-building)
-- [Classes hosted at Old Park School, Kingswood](#classes-at-old-park-school-kingswood-opposite-the-civic-centre)
+- [Classes hosted at Kes Club, Kingswood](#classes-at-kes-club-kingswood-old-legion-building-next-to-lloyds-bank)
 
 ## Community classes
 
@@ -28,7 +28,7 @@ For the most up to date classes please check out my
 |19:00|Ante Natal course   |Keynsham Leisure Centre|
 |20:00|Aqua Aerobics       |Easton Leisure Centre  |
 ||**Tuesday**                                      |
-|11:00|Super Seniors £4    |Old Park School, Kingswood|
+|11:00|Super Seniors £4    |Kes Club, Kingswood    |
 |12:45|Pilates             |UWE - Glennside Campus |
 |19:00|Rehabilitation (beginners) Pilates £7|Lincombe Barn, Downend|
 |20:00|Rehabilitation (beginners) Pilates £7|Lincombe Barn, Downend|
@@ -117,12 +117,9 @@ annually and no extra cost. Non students also welcome at same cost!!!
 
 -------------------------------------------------------------------------------
 
-## Classes at Old Park School, Kingswood (opposite The Civic Centre)
+## Classes at Kes Club, Kingswood (Old Legion Building, next to Lloyds Bank)
 
 |Tuesday|11:00|Super Seniors £4|Follow signs for birthday parties|
 
 All levels are welcome, work at your own level. Feel free to bring any walking
-aids you may need.
-
-Parking is available in the school car park on Hollow Road and disabled parking
-is accessible from the main road.
+aids you may need. Meeting at 11am plan to start the class at five past.
