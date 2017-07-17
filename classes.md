@@ -11,7 +11,6 @@ Gentle Fitness ltd offers:
 - [Community classes](#community-classes)
 - [Classes hosted at Keynsham Leisure Centre](#classes-hosted-at-keynsham-leisure-centre)
 - [Exercise courses for Keynsham Leisure Centre](#exercise-courses-for-keynsham-leisure-centre)
-- [Classes hosted at Powa Fitness (Hanham Hall)](#classes-hosted-at-powa-fitness-hanham-hall)
 - [Classes hosted at Brunel Fitness Centre](#classes-hosted-at-brunel-fitness-centre-speedwell-school)
 - [Classes hosted at Easton Leisure Centre](#classes-hosted-at-easton-leisure-centre)
 - [Classes hosted at Lincombe Barn, Downend](#classes-hosted-at-lincombe-barn-downend)
@@ -29,7 +28,6 @@ For the most up to date classes please check out my
 |19:00|Ante Natal course   |Keynsham Leisure Centre|
 |20:00|Aqua Aerobics       |Easton Leisure Centre  |
 ||**Tuesday**                                      |
-|09:30|Yoga                |Powa Fitness, Hanham Hall|
 |11:00|Super Seniors £4    |Old Park School, Kingswood|
 |12:45|Pilates             |UWE - Glennside Campus |
 |19:00|Rehabilitation (beginners) Pilates £7|Lincombe Barn, Downend|
@@ -38,16 +36,13 @@ For the most up to date classes please check out my
 |09:35|Yoga class          |Keynsham Leisure Centre|
 |10:45|Post Natal course   |Keynsham Leisure Centre|
 |19:00|Yoga                |Brunel Fitness Centre  |
-|20:30|Yoga                |Powa Fitness, Hanham Hall|
 ||**Thursday**                                     |
-|09:30|Yoga                |Powa Fitness, Hanham Hall|
 |18:00|Pilates             |UWE - Student Union Building|
 ||**Friday**                                       |
 |09:55|Beginners Pilates   |Keynsham Leisure Centre|
 |11:00|Super Seniors       |Keynsham Leisure Centre|
 ||**Saturday**                                     |
 |09:00|Small Group Pilates £7|Lincombe Barn, Downend |
-|11:00|Yoga                |Powa Fitness, Hanham Hall|
 ||**Sunday**                                       |
 |09:30|Pilates             |Easton Leisure Centre  |
 
@@ -73,23 +68,6 @@ Call the Centre directly on 01225 439680 to enquire about the next batch of cour
 |Monday   |09:35|Yoga      |
 |Monday   |19:00|Ante natal|
 |Wednesday|10:45|Post natal|
-
--------------------------------------------------------------------------------
-
-## Classes hosted at Powa Fitness (Hanham Hall)
-
-|Tuesday|09:30|Yoga|
-|Wednesday|20:30|Pilates|
-|Thursday|09:30|Pilates|
-|Saturday|11:00|Yoga|
-
-For the cost of Powa Fitness classes please contact them directly on 07411 779549
-(currently free to members and £6 for non members). All classes taught at Powa
-Fitness need to paid for at the Reception desk when signing in.
-
-These classes will only run with 4 people booked onto them, so please either text me
-077 3630 9272, email me, or comment on their facebook page:
-[https://www.facebook.com/hanhamhallgym](https://www.facebook.com/hanhamhallgym)
 
 -------------------------------------------------------------------------------
 
