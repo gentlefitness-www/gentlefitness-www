@@ -16,6 +16,7 @@ Gentle Fitness ltd offers:
 - [Classes hosted at Lincombe Barn, Downend](#classes-hosted-at-lincombe-barn-downend)
 - [Classes hosted at UWE](#classes-hosted-at-uwe-student-union-building)
 - [Classes hosted at Kes Club, Kingswood](#classes-at-kes-club-kingswood-old-legion-building-next-to-lloyds-bank)
+- [Classes hosted at Kingswood Leisure Centre, Soundwell](#classes-at-kingswood-leisure-centre-soundwell)
 
 ## Community classes
 
@@ -42,7 +43,8 @@ For the most up to date classes please check out my
 |09:30|Beginners Pilates   |Keynsham Leisure Centre|
 |10:15|Super Seniors       |Keynsham Leisure Centre|
 ||**Saturday**                                     |
-|09:00|Rehabilitation (beginners) Pilates £7|Lincombe Barn, Downend|
+|09:00|Pilates             |Kingswood Leisure Centre|
+|10:00|Pilates             |Kingswood Leisure Centre|
 ||**Sunday**                                       |
 |09:30|Pilates             |Easton Leisure Centre  |
 
@@ -94,10 +96,6 @@ All classes taught at the Leisure Centre need to paid for at the Reception desk.
 
 |Tuesday |19:00|Rehabilitation (beginners) Pilates £7|In the Page Room|
 |Tuesday |20:00|Rehabilitation (beginners) Pilates £7|In the Page Room|
-|Saturday|09:00|Rehabilitation (beginners) Pilates £7|Upstairs within Lincombe Barn\*|
-
-_\* The location of Saturday's session can change weekly, please check or 
-ensure I have your mobile number so I can text you if the room has changed._
 
 I have limited mats so if you have one please bring it with you.
 Please contact me for more information.
@@ -126,3 +124,14 @@ annually and no extra cost. Non students also welcome at same cost!!!
 
 All levels are welcome, work at your own level. Feel free to bring any walking
 aids you may need. Meeting at 11am plan to start the class at five past.
+
+-------------------------------------------------------------------------------
+
+## Classes at Kingswood Leisure Centre, Soundwell
+
+|Saturday|09:00|Pilates|Kingswood Leisure Centre|
+|Saturday|10:00|Pilates|Kingswood Leisure Centre|
+
+For the cost of Kingswood Leisure classes, please contact them directly: 
+0300 333 0300. All classes taught at the Leisure Centre need to paid for at the
+Reception desk and booking in advance is recommended as these classes can get busy.
