@@ -13,7 +13,7 @@ Gentle Fitness ltd offers:
 - [Exercise courses for Keynsham Leisure Centre](#exercise-courses-for-keynsham-leisure-centre)
 - [Classes hosted at Brunel Fitness Centre](#classes-hosted-at-brunel-fitness-centre-speedwell-school)
 - [Classes hosted at Easton Leisure Centre](#classes-hosted-at-easton-leisure-centre)
-- [Classes hosted at Lincombe Barn, Downend](#classes-hosted-at-lincombe-barn-downend)
+- [Classes hosted at Pendennis Church, Downend/Staple Hill](#classes-hosted-at-pendennis-church-downendstaple-hill)
 - [Classes hosted at UWE](#classes-hosted-at-uwe-student-union-building)
 - [Classes hosted at Kes Club, Kingswood](#classes-at-kes-club-kingswood-old-legion-building-next-to-lloyds-bank)
 - [Classes hosted at Kingswood Leisure Centre, Soundwell](#classes-at-kingswood-leisure-centre-soundwell)
@@ -30,8 +30,7 @@ For the most up to date classes please check out my
 ||**Tuesday**                                      |
 |11:00|Super Seniors £4    |Kes Club, Kingswood    |
 |12:30|Pilates             |UWE - Glennside Campus |
-|19:00|Rehabilitation (beginners) Pilates £7|Lincombe Barn, Downend|
-|20:00|Rehabilitation (beginners) Pilates £7|Lincombe Barn, Downend|
+|19:00|Rehabilitation (beginners) Pilates £7|Pendennis Church, Downend/Staple Hill|
 ||**Wednesday**                                    |
 |09:35|Yoga class          |Keynsham Leisure Centre|
 |10:45|Post Natal course   |Keynsham Leisure Centre|
@@ -92,16 +91,14 @@ All classes taught at the Leisure Centre need to paid for at the Reception desk.
 
 -------------------------------------------------------------------------------
 
-## Classes hosted at Lincombe Barn, Downend
+## Classes hosted at Pendennis Church, Downend/Staple Hill
 
-|Tuesday |19:00|Rehabilitation (beginners) Pilates £7|In the Page Room|
-|Tuesday |20:00|Rehabilitation (beginners) Pilates £7|In the Page Room|
+|Tuesday|19:00|Rehabilitation (beginners) Pilates £7|
 
 I have limited mats so if you have one please bring it with you.
 Please contact me for more information.
 
-Saturday class make sure you come upstairs as there is sometimes other classes
-happening downstairs and it is very easy to find yourself in the wrong class.
+Pendennis Good News Church, Pendennis Road, Staple Hill, Bristol BS16 5JB
 
 -------------------------------------------------------------------------------
 

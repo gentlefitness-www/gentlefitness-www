@@ -8,6 +8,15 @@ permalink: /testimonials.html
 
 *Learn what Samantha's clients think...*
 
+> I started going to Sam’s classes whilst waiting to have an operation on my knee
+> (torn meniscus). After just a few months on visiting my consultant, he told me
+> I no longer needed an operation and said whatever I was doing was helping it to
+> heal, on it's own! Needless to say, I was absolutely delighted, but obviously
+> knew myself that "things had improved" a lot. So, thank you Sam, I just wish I
+> had come to you earlier!
+
+*- Judy Bale*
+
 > Sam was recommended to me because I do a lot of cycling and have a desk job so
 > I constantly had tight hamstrings, hips and lower back. Without meaning to be
 > stereotypical, blokes often do lots of weight training and aerobic exercise but
