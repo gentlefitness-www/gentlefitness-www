@@ -8,6 +8,80 @@ permalink: /testimonials.html
 
 *Learn what Samantha's clients think...*
 
+> Thank you for the extra exercises that you gave me to do at home, it has helped
+> with my left knee and hip (both have osteoarthritis in). I enjoy your Pilate
+> class on a fri morning, as they are a relaxed class, you teach us different
+> level of excises all the time, if we have a injury you always suggest
+> alternative exercise. You are a lovely friendly teacher, who is very
+> knowledgeable in what you do. I have meet a lot of people who have become
+> friends, not just through who is sat next to me, you actually call each other
+> by there names. I have never been to a exercise/Pilates class where you get to
+> meet lots of people, I have been with this class since June 2017, and normally
+> by now I have given up on the class.
+
+*- Sarah Hewitt*
+
+> I regularly attend Sam‘s Sunday Pilates class and have also tried her Yoga and
+> Aqua aerobics class.
+>
+> She is a very knowledgeable teacher who is very good at judging your abilities
+> and will work with you accordingly. She might push and challenge but never
+> force you, especially if you have any existing health conditions or recover
+> from injury.
+>
+> Her classes are relaxed and provide a welcoming atmosphere for everyone, no
+> matter your gender, age, or size
+
+*- Anja Berndt*
+
+> Improving fitness and flexibility in a friendly and fun environment is the
+> ethos of Sam’s Pilates classes. She tailors the exercise levels to suit the
+> ability of each participant while challenging them at the same time. Sam
+> designed a bespoke set of exercises for me so I can continue developing my
+> stamina & fitness at home, both of which have greatly improved since I joined
+> her Pilates class!
+
+*- Yasmin Wahid*
+
+> I came to Sam for yoga having suffered with pelvis problems. I was nervous
+> about joining a class, worried I wouldn't be good enough. Sam put me at ease
+> straight away. She’s great at the moves, great connecting to people, but very
+> modest. She doesn't take herself too seriously, enabling everyone to relax and
+> enjoy the class. She’s very hands on, ensuring you’re getting the positions
+> right and getting the best out of them. I think Sam should name her own style
+> of yoga because what she offers is far more fun than normal yoga.
+
+*- Laura B*
+
+> I go to Sam's Pilates, Yoga and Gentle Exercise classes. Sam always welcomes
+> new people to the class and offers different levels of exercise. There is a
+> relaxed atmosphere in her classes but she does check that everyone is doing the
+> exercises correctly. Since doing regular exercise with Sam I have fewer back
+> and knee problems.
+
+*- Alison Powlesland*
+
+> My husband and I started Super Seniors, in Kingwood at the start of May.
+>
+> We have found it great fun, Sam does different exercises each week, so you
+> never know what she will get you to do. I am in my late sixties and have a lot
+> of health issues including a recent broken shoulder but she understands I can't
+> always keep up or do some of the exercises and never pushes me.
+>
+> At the moment my husband is the only man in the class, but doesn't feel out of
+> place as everyone is friendly, and he really enjoys some of the female banter!
+>
+> If you are looking for boot camp then this isn't for you, in fact it is the
+> complete opposite easy going, fun, and we are even allowed to chat why we work!
+
+*- Liz and Phil Wade*
+
+> Sam's classes are always fun and she has a quirky teaching style which I love.
+> She is always ready to correct our moves and positions and is very 'hands on'.
+> Just great!
+
+*- Sue Grainger*
+
 > I started going to Sam’s classes whilst waiting to have an operation on my knee
 > (torn meniscus). After just a few months on visiting my consultant, he told me
 > I no longer needed an operation and said whatever I was doing was helping it to
