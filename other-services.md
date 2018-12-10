@@ -99,10 +99,10 @@ noodles and resistance bands can also be used.
 -------------------------------------------------------------------------------
 
 ## Personal Training
-Personal training is offered at SBL Sports Centre. Samantha specialises in special
-populations. This means things that need special attention such as ante-natal,
-post-natal, mental health, high blood pressure, injuries, aliments, cancer
-rehabilitation etc.
+Personal training is offered in your own home or place of your choice. Samantha
+specialises in special populations. This means things that need special
+attention such as ante-natal, post-natal, mental health, high blood pressure,
+injuries, aliments, cancer rehabilitation etc.
 
 You may only want one session with a programme written up for you to follow
 within your own time or you may want a regular session.
