@@ -24,23 +24,21 @@ For the most up to date classes please check out my
 [facebook page]({{ site.facebook_url }})
 
 ||**Monday**                                       |
-|09:35|Yoga course         |Keynsham Leisure Centre|
-|19:00|Ante Natal course   |Keynsham Leisure Centre|
 |20:00|Aqua Aerobics       |Easton Leisure Centre  |
 ||**Tuesday**                                      |
 |11:00|Super Seniors £4    |Kes Club, Kingswood    |
 |12:30|Pilates             |UWE - Glennside Campus |
 |19:00|Rehabilitation (beginners) Pilates £7|Pendennis Church, Downend/Staple Hill|
+|20:00|Spine Safe Course (6 weeks)|Pendennis Church, Downend/Staple Hill|
 ||**Wednesday**                                    |
 |09:35|Yoga class          |Keynsham Leisure Centre|
-|10:45|Post Natal course   |Keynsham Leisure Centre|
+|11:30|Spine Safe Course (6 weeks)|Brunel Fitness Centre|
 |19:00|Yoga                |Brunel Fitness Centre  |
-||**Thursday**                                     |
-|09:35|Yoga class          |Keynsham Leisure Centre|
-|18:00|Pilates             |UWE - Student Union Building|
+|20:00|Spine Safe Course (6 weeks)|Brunel Fitness Centre|
 ||**Friday**                                       |
 |09:30|Beginners Pilates   |Keynsham Leisure Centre|
 |10:15|Super Seniors       |Keynsham Leisure Centre|
+|20:00|Spine Safe Course (6 weeks)|Keynsham Leisure Centre|
 ||**Saturday**                                     |
 |09:00|Pilates             |Kingswood Leisure Centre|
 |10:00|Pilates             |Kingswood Leisure Centre|
@@ -49,26 +47,39 @@ For the most up to date classes please check out my
 
 -------------------------------------------------------------------------------
 
+## Spine Safe Courses
+Exercise rehabilitation for numerous back problems, such as disc problems,
+various causes of sciatica, spondylolisthesis, retrolisthesis, stenosis,
+arthritic condition, ankylosing spondylitis, osteoporosis and sacralisation.
+
+£42 for all 6 weeks, payment to be made prior to course. Contact me:
+[samantha@gentlefitness.co.uk](mailto:samantha@gentlefitness.co.uk)
+
+Numbers are limited so ensure more one-on-one attention, get to know you as an
+individual, whilst working with you to enhance your strengths and improve your
+weaknesses.
+
+This courses run over 6 weeks.
+
+The 2019 courses run W/C;
+
+|9th Jan   | - |11th Feb|
+|25th Feb  | - |1st April|
+|22nd April| - |27th May|
+|3rd June  | - |8th July|
+|9th Sept  | - |14th Oct|
+|4th Nov   | - |10th Dec|
+
+-------------------------------------------------------------------------------
+
 ## Classes hosted at Keynsham Leisure Centre
 
 |Wednesday|09:35|Yoga             |
-|Thursday |09:35|Yoga             |
 |Friday   |09:30|Beginners Pilates|
 |Friday   |10:15|Super Seniors    |
 
 For the cost of Keynsham Leisure classes please contact them directly 01225 439680.
 All classes taught at the Leisure Centre need to paid for at the Reception desk.
-
--------------------------------------------------------------------------------
-
-## Exercise courses for Keynsham Leisure Centre
-
-These are 6 weeks long and must be booked in advance.
-Call the Centre directly on 01225 439680 to enquire about the next batch of courses.
-
-|Monday   |09:35|Yoga      |
-|Monday   |19:00|Ante natal|
-|Wednesday|10:45|Post natal|
 
 -------------------------------------------------------------------------------
 
@@ -105,13 +116,12 @@ Pendennis Good News Church, Pendennis Road, Staple Hill, Bristol BS16 5JB
 ## Classes hosted at UWE, Student Union Building
 
 |Tuesday|12:30|Pilates (Glennside Campus)|
-|Thursday|20:00|Pilates (off the wall) Frenchay Campus|
 
 For the cost of UWE off the wall classes and one to ones please contact them
-directly via the student union or look up on their website. Cost currently is £20
+directly via the student union or look up on their website. Cost currently is £40
 annually and no extra cost. Non students also welcome at same cost!!!
 
-[https://www.thestudentsunion.co.uk/opportunities/offthewall](https://www.thestudentsunion.co.uk/opportunities/offthewall)
+[https://www.thestudentsunion.co.uk/opportunities/move/](https://www.thestudentsunion.co.uk/opportunities/move/)
 
 -------------------------------------------------------------------------------
 
