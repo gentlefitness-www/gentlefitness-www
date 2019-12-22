@@ -8,6 +8,52 @@ permalink: /testimonials.html
 
 *Learn what Samantha's clients think...*
 
+> Sam is an amazing teacher who makes you feel welcome to her yoga class and is
+> very down to earth. She is very knowledgeable about yoga and fitness in
+> general, answered any questions I had, but we also had a great laugh too.
+> Don’t hesitate to attend a class with Sam!
+
+*- Nikki Bond*
+
+> Sam has made a huge difference too my life, since starting Pilates with Sam,
+> I have lost a stone in weight. I’m fitter and more flexible than I have been
+> in years. Her back care course myself. I look better and have more
+> self-confidence. People have actually have noticed the change in my shape.
+> I've still got a long way to go but will always be thankful that I found Sam
+> to get me off to such a tremendous start.
+
+*- Sue Sowden*
+
+> Sam is helping me to recover my strength and fitness following bowel cancer
+> surgery that resulted in me having a permanent stoma. I also have a
+> parastomal hernia. Sam has been fantastic. She has been very understanding
+> and show great patience with me. She has carefully built up my confidence and
+> been able to help me achieve movements and a level of flexibility that I
+> never thought were possible.
+ 
+> Sam has been an inspiration.  She is very down-to-earth and conscientious. 
+> She has worked hard to ensure that the program of exercises that we do are
+> tailored to my condition and goals. Her knowledge and level of personal
+> experience is incredible.
+ 
+> I feel very fortunate to have been able to benefit from Sam’s thoughtfulness.
+> She has a wonderful personality and skills set. I can I thoroughly recommend
+> Sam, her classes and the individual tailored support that she offers.
+
+*- Alan Monaghan.*
+
+> Sam’s Pilates class is such fun to attend. She is extremely knowledgeable and
+> always offers different levels for each exercise so you can work as hard as
+> your body allows. Sam always demonstrates each exercise and assists everyone
+> individual to ensure they have the correct position. She will happily offer
+> an alternative exercise if needed.  Sam has helped me recover from a nasty
+> whiplash injury and she has helped me strengthen my core to protect my back.
+> The atmosphere is very relaxed with music playing in the background and there
+> is always plenty of laughter. I always leave feeling relaxed, happy and
+> de-stressed.
+
+*- Emma Skidmore*
+
 > Thank you for the extra exercises that you gave me to do at home, it has helped
 > with my left knee and hip (both have osteoarthritis in). I enjoy your Pilate
 > class on a fri morning, as they are a relaxed class, you teach us different
