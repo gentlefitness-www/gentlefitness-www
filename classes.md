@@ -17,6 +17,7 @@ Gentle Fitness ltd offers:
 - [Classes hosted at UWE](#classes-hosted-at-uwe-student-union-building)
 - [Classes hosted at Kes Club, Kingswood](#classes-at-kes-club-kingswood-old-legion-building-next-to-lloyds-bank)
 - [Classes hosted at Kingswood Leisure Centre, Soundwell](#classes-at-kingswood-leisure-centre-soundwell)
+- [Spine Safe Courses](#spine-safe-courses)
 
 ## Community classes
 
@@ -24,6 +25,8 @@ For the most up to date classes please check out my
 [facebook page]({{ site.facebook_url }})
 
 ||**Monday**                                       |
+|11:00|Pilates             |Compton Dando Village Hall|
+|13:00|Referral Class      |Kingswood Leisure Centre|
 |20:00|Aqua Aerobics       |Easton Leisure Centre  |
 ||**Tuesday**                                      |
 |11:00|Super Seniors £4    |Kes Club, Kingswood    |
@@ -32,13 +35,10 @@ For the most up to date classes please check out my
 |20:00|Spine Safe Course (6 weeks)|Pendennis Church, Downend/Staple Hill|
 ||**Wednesday**                                    |
 |09:35|Yoga class          |Keynsham Leisure Centre|
-|11:30|Spine Safe Course (6 weeks)|Brunel Fitness Centre|
-|19:00|Yoga                |Brunel Fitness Centre  |
-|20:00|Spine Safe Course (6 weeks)|Brunel Fitness Centre|
 ||**Friday**                                       |
 |09:30|Beginners Pilates   |Keynsham Leisure Centre|
 |10:15|Super Seniors       |Keynsham Leisure Centre|
-|20:00|Spine Safe Course (6 weeks)|Keynsham Leisure Centre|
+|19:00|Stretch and Flex    |Pendennis Church, Downend/Staple Hill|
 ||**Saturday**                                     |
 |09:00|Pilates             |Kingswood Leisure Centre|
 |10:00|Pilates             |Kingswood Leisure Centre|
@@ -61,14 +61,14 @@ weaknesses.
 
 This courses run over 6 weeks.
 
-The 2019 courses run W/C;
+The 2020 courses run W/C;
 
-|9th Jan   | - |11th Feb|
-|25th Feb  | - |1st April|
-|22nd April| - |27th May|
-|3rd June  | - |8th July|
-|9th Sept  | - |14th Oct|
-|4th Nov   | - |10th Dec|
+|6th Jan   | - |10th Feb|
+|25th Feb  | - |30th March|
+|20th April| - |25th May|
+|8th June  | - |13th July|
+|31st Aug  | - |5th Oct|
+|2nd Nov   | - |7th Dec|
 
 -------------------------------------------------------------------------------
 
@@ -78,17 +78,11 @@ The 2019 courses run W/C;
 |Friday   |09:30|Beginners Pilates|
 |Friday   |10:15|Super Seniors    |
 
+During the redevelopment the class times for Beginners pilates have changed to
+11:20-12 until early 2020 then it should return to the original times.
+
 For the cost of Keynsham Leisure classes please contact them directly 01225 439680.
 All classes taught at the Leisure Centre need to paid for at the Reception desk.
-
--------------------------------------------------------------------------------
-
-## Classes hosted at Brunel Fitness Centre (Speedwell School)
-
-|Wednesday|19:00|Yoga|
-
-For the cost of Brunel Fitness Centre classes please contact them directly on 0117 377 0098.
-All classes taught at the Fitness Centre need to paid for at the Reception desk.
 
 -------------------------------------------------------------------------------
 
