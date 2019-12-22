@@ -112,4 +112,4 @@ within your own time or you may want a regular session.
 > making your training worthwhile and enjoyable. I adopt a less formal, friendly
 > relaxed approach
 
-**£30** per session
+**£35** per session
